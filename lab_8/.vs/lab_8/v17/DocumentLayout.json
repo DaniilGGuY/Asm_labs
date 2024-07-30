@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MyProject\\universe\\mzap_labs\\lab_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3D9109-B9C5-4AFC-8D97-AC23C8D53385}|lab_8\\lab_8.vcxproj|D:\\MyProject\\universe\\mzap_labs\\lab_8\\lab_8\\chord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3D9109-B9C5-4AFC-8D97-AC23C8D53385}|lab_8\\lab_8.vcxproj|solutionrelative:lab_8\\chord.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3D9109-B9C5-4AFC-8D97-AC23C8D53385}|lab_8\\lab_8.vcxproj|D:\\MyProject\\universe\\mzap_labs\\lab_8\\lab_8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A3D9109-B9C5-4AFC-8D97-AC23C8D53385}|lab_8\\lab_8.vcxproj|solutionrelative:lab_8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chord.cpp",
+              "DocumentMoniker": "D:\\MyProject\\universe\\mzap_labs\\lab_8\\lab_8\\chord.cpp",
+              "RelativeDocumentMoniker": "lab_8\\chord.cpp",
+              "ToolTip": "D:\\MyProject\\universe\\mzap_labs\\lab_8\\lab_8\\chord.cpp",
+              "RelativeToolTip": "lab_8\\chord.cpp",
+              "ViewState": "AQIAAAUAAAAA0czMzMwXwBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T19:49:34.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\MyProject\\universe\\mzap_labs\\lab_8\\lab_8\\main.cpp",
+              "RelativeDocumentMoniker": "lab_8\\main.cpp",
+              "ToolTip": "D:\\MyProject\\universe\\mzap_labs\\lab_8\\lab_8\\main.cpp",
+              "RelativeToolTip": "lab_8\\main.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-04T09:27:28.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

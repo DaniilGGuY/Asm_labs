@@ -1,0 +1,6 @@
+﻿  float_32.cpp
+D:\MyProject\universe\mzap_labs\lab_8\lab_8\float_32.cpp(8,13): warning C4305: инициализация: усечение из "double" в "float"
+D:\MyProject\universe\mzap_labs\lab_8\lab_8\float_32.cpp(8,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\MyProject\universe\mzap_labs\lab_8\lab_8\float_32.cpp(19,13): warning C4305: инициализация: усечение из "double" в "float"
+D:\MyProject\universe\mzap_labs\lab_8\lab_8\float_32.cpp(19,28): warning C4305: инициализация: усечение из "double" в "float"
+LINK : fatal error LNK1168: не удается открыть D:\MyProject\universe\mzap_labs\lab_8\x64\Debug\lab_8.exe для записи
